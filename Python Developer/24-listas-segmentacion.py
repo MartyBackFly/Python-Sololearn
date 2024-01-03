@@ -28,3 +28,20 @@ print(vehicle[5:])
 espacio()
 
 
+platform = ['iOS', 'Android', 'Web']
+print(platform[:])
+
+
+
+espacio()
+
+
+char = ['A', 'B', 'C', 'D', 'E'] 
+print(char[2:4])
+
+
+
+espacio()
+
+
+
