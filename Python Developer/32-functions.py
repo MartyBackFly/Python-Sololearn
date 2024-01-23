@@ -67,6 +67,10 @@ print("underweight:", patient_5 < 18.5)
 patient_7 = bmi(75, 1.74)
 print("underweight:", patient_7 < 18.5)
 
+
+
+
+
 espacio()
 
 def discounted( price, discount):
@@ -76,3 +80,9 @@ def discounted( price, discount):
 
 a = discounted(1000, 50)
 print (a)
+
+espacio()
+
+
+
+
