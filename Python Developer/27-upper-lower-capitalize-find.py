@@ -63,6 +63,7 @@ text = input("ingresa tu tessssto en minuscula que lo mayusculizamos gratis --- 
 textup = text.upper()
 
 #mostrar en la pantalla
+
 print( )
 
 print(textup)
