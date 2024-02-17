@@ -54,3 +54,7 @@ print(brands[-3:-1])
 espacio()
 
 
+nums = (55, 44, 33, 22)
+print(nums[:2][-1])
+
+
