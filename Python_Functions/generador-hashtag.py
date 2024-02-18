@@ -1,5 +1,5 @@
+from ..Python_Developer.aafuncionimprimir import espacio
 
-from Python_Developer import espacio
 
 #isalnum() 
 
