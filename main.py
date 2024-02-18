@@ -10,3 +10,8 @@ import Python_Developer.aafuncionimprimir
 print("RUTA  " + Python_Developer.aafuncionimprimir.__file__)
 
 espacio()
+
+
+
+#  python.exe -m pip install --upgrade pip
+
