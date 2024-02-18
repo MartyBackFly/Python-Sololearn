@@ -13,5 +13,6 @@ espacio()
 
 
 
-#  python.exe -m pip install --upgrade pip
+# actualizar  
+# python.exe -m pip install --upgrade pip
 

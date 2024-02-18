@@ -34,24 +34,6 @@ print((hashtags_generados))
 espacio()
 
 
-#aca obtenemos la frase con hashtag peroo sin coma y sin comillas 
-
-
-frase = input("Ingrese la frase aquí: ")
-
-def generar_hashtag(frase):
-    palabras = frase.split()
-    hashtags = ' '.join('#' + palabra for palabra in palabras if palabra.isalnum())
-    return hashtags
-
-hashtags_generados = generar_hashtag(frase)
-print(hashtags_generados)
-
-
-
-
-
-espacio()
 
 
 
