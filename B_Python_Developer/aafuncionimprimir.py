@@ -1,3 +1,5 @@
+import sys
+
 def espacio():
     print ("")
     print ("---------------------")
@@ -6,3 +8,5 @@ def espacio():
 
 
 espacio()
+
+print(sys.path)
