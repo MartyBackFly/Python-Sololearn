@@ -1,6 +1,7 @@
 {
     "python.analysis.extraPaths": [
         "./3-",
-        "./3-"
+        "./3-",
+        "./B_"
     ]
 }

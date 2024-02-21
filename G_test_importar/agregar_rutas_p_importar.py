@@ -1,9 +1,15 @@
-import sys 
-sys.path.append("C:/Users/fedeh/Google Drive/Python")
-#sys.path.append("C:/Users/fedeh/Google Drive/Python/2_Python_Developer")
-import B_Python_Developer.aafuncionimprimir 
-import A_Python_Introduccion
 
+
+
+#import sys 
+#sys.path.append("C:/Users/fedeh/Google Drive/Python")
+
+
+
+#sys.path.append("C:/Users/fedeh/Google Drive/Python/2_Python_Developer")
+
+
+#no se bien en que caso usar 
 
 
 #print(sys.builtin_module_names)
@@ -16,3 +22,7 @@ import A_Python_Introduccion
 
 
 
+from aafuncionimprimir import espacio as aa
+
+
+aa()
