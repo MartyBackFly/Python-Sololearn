@@ -1,4 +1,4 @@
-from imprimir import espacio as aa
+from aafuncionimprimir import espacio as aa
 
 
 price = int(input("price --->"))
@@ -26,7 +26,7 @@ aa()
 
 # para sacar por ejemplo "si obtengo x monto de tal total cuanto porcentaje es ? seria como la inversa" 
 
-# si de un total de 555 cosas me dieron 143 cosas .. eso que porcentaje de cosas es ? 
+# si de un total de 555 cosas me dieron 143 cosas .. eso que porcentaje de cosas es ?  es 25.77 % lo que obtengo del total. 
 
 
 price = int(input("price --->"))

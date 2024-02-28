@@ -24,9 +24,9 @@ print(round(res(perc, price), 2))
 aa()
 
 
-# para sacar por ejemplo "si obtengo x monto de tal total cuanto porcentaje es ? seria como la inversa" 
+# para sacar por ejemplo "si obtengo un X monto de un X total cuanto porcentaje es ? seria como la inversa" 
 
-# si de un total de 555 cosas me dieron 143 cosas .. eso que porcentaje de cosas es ? 
+# si de un total de 555 cosas me dieron 143 cosas .. eso que porcentaje de cosas es ?  es 25.77 % lo que obtengo del total. 
 
 
 price = int(input("price --->"))
