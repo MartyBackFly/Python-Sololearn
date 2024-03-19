@@ -122,3 +122,6 @@ print(es_par(22))
 
 #Recuerda que las funciones lambda son útiles para operaciones simples y expresiones cortas. 
 #Si necesitas una lógica más compleja o funciones más extensas, es preferible usar funciones definidas con def.
+
+a = (lambda x: x * (x + 1))(6)
+print(a, "lambdita")
