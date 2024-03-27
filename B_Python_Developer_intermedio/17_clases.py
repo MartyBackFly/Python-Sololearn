@@ -70,7 +70,7 @@ class Player:
 
 
 name = input("name")
-level = input("level ")
+level = input("level ricard")
 
 player1 = Player(name, level)
 
