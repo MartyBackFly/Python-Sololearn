@@ -1,5 +1,4 @@
-
-Sí, en Visual Studio Code (VS Code) también puedes tener una experiencia similar 
+En Visual Studio Code (VS Code) también puedes tener una experiencia similar 
 a la de los Jupyter Notebooks utilizando extensiones específicas. 
 La extensión más popular para este propósito es "Jupyter" (anteriormente conocida como "Python") 
 que te permite ejecutar celdas de código Python y Markdown directamente en VS Code.

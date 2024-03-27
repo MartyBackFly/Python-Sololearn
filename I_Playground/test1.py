@@ -20,3 +20,4 @@ receta = Specialcooking(ingrediente1)
 resultado = receta + Specialcooking(ingrediente2)
 
 print(resultado)
+
