@@ -103,3 +103,9 @@ class C(B):
     super().spam()
             
 C().spam()
+
+
+# super().spam() llama a la clase padre en este caso B e imprime 2 . Si cambiamos -class C(B):- por -class C(A):- 
+# entonces imprimira 1 por que su clase padre sera la primera 
+
+ 

@@ -5,9 +5,9 @@ class Specialcooking:
     def __init__(self, comida):
         self.comida = comida
 
-    def __add__(self, asd):
-        line = "__" * len(asd.comida)
-        return " ".join([self.comida, line, asd.comida])
+    def __add__(self, comilona):
+        line = "__" * len(comilona.comida)
+        return " ".join([self.comida, line, comilona.comida])
 
 # Pedir al usuario los ingredientes
 ingrediente1 = input("Ingrediente 1: ")
